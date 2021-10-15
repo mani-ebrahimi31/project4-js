@@ -8,4 +8,5 @@ var duplicates = array1.filter(function (val) {
 });
 
 //output
+
 console.log(duplicates);
